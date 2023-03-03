@@ -107,7 +107,7 @@ export default () => {
             发送
           </button>
           <button title='Clear' onClick={clear} disabled={loading()} h-12 px-4 py-2 bg-slate bg-op-15 hover:bg-op-20 text-slate rounded-sm>
-            <IconClear />清除
+            <IconClear />
           </button>
         </div>
       </Show>
